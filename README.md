@@ -5,6 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rokwon79@gmail.com)](mailto:rokwon79@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006676302174)](https://www.facebook.com/profile.php?id=100006676302174)
 
+<br>
+
 ### About
 - 상명대학교 소프트웨어학과 `2016.03 ~ `
 - 대학 자취방 중계 플랫폼 본방사수 **React Native** `2019.10 ~ 2020.01`
