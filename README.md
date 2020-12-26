@@ -6,7 +6,8 @@
 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RokwonK)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on kimcaddie
 - 🌱 I’m currently learning iOS
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RokwonK)](https://github.com/anuraghazra/github-readme-stats)
