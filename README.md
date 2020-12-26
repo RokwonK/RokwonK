@@ -6,8 +6,11 @@
 
 <br>
 
+### About
 - 🔭 I’m currently working on kimcaddie
 - 🌱 I’m currently learning iOS
+- 대학 자취방 중계 플랫폼 본방사수 **React Native 개발자** `19.10 ~ 20.01`
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RokwonK)](https://github.com/anuraghazra/github-readme-stats)
