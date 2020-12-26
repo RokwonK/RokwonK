@@ -16,5 +16,3 @@
 - 골프 중계 플랫폼 '김캐디' **iOS developer** `2020.11 ~ `
 
 <br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RokwonK)](https://github.com/anuraghazra/github-readme-stats)
