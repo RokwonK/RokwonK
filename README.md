@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**RokwonK/RokwonK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rokwon79@gmail.com)](mailto:rokwon79@gmail.com)
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RokwonK)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on kimcaddie
