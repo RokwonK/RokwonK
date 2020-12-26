@@ -1,4 +1,4 @@
-### Rokwon's github
+### About Rokwon
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rokwon79@gmail.com)](mailto:rokwon79@gmail.com)
 
