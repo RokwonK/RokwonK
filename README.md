@@ -6,11 +6,15 @@
 
 <br>
 
-### About
 - 🔭 I’m currently working on kimcaddie
 - 🌱 I’m currently learning iOS
-- 대학 자취방 중계 플랫폼 본방사수 **React Native 개발자** `19.10 ~ 20.01`
 
-
+### About
+- 상명대학교 소프트웨어학과 `2016.03 ~ `
+- 대학 자취방 중계 플랫폼 본방사수 **React Native** `2019.10 ~ 2020.01`
+- 게임 친구 구하기 플랫폼 Duo9ham **iOS, Server** `2020.09 ~ 2021.01`
+- ICPC 한국 대학생 프로그래밍 경시대회 **본선 진출** `2020.10`
+- 제7회 대한민국 SW융합 해커톤 대회 대상 **iOS** `2020.12`
+- 골프 중계 플랫폼 '김캐디' **iOS developer** `2020.11 ~ `
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RokwonK)](https://github.com/anuraghazra/github-readme-stats)
