@@ -6,8 +6,9 @@
 
 <br>
 
-- 🔭 I’m currently working on kimcaddie
-- 🌱 I’m currently learning iOS
+🌱 I’m currently learning iOS
+
+<br>
 
 ### About
 - 상명대학교 소프트웨어학과 `2016.03 ~ `
