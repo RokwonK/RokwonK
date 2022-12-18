@@ -3,8 +3,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rokwon79@gmail.com)](mailto:rokwon79@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006676302174)](https://www.facebook.com/profile.php?id=100006676302174)
 
 
-👨🏻‍🎓 상명대학교 소프트웨어학과 3학년 재학
-💻 Software Engineer
+👨🏻‍🎓 상명대학교 소프트웨어학과 3학년 재학  
+💻 Software Engineer  
 
 <br>
 
