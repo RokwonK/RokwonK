@@ -2,10 +2,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rokwon79@gmail.com)](mailto:rokwon79@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EB%A1%9D%EC%9B%90-%EA%B9%80-b6917419a/)](https://www.linkedin.com/in/%EB%A1%9D%EC%9B%90-%EA%B9%80-b6917419a/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006676302174)](https://www.facebook.com/profile.php?id=100006676302174)
 
-👨🏻‍🎓 상명대학교 소프트웨어학과 4학년 재학중
-💻 Software Engineer
+👨🏻‍🎓 상명대학교 소프트웨어학과 4학년 재학중  
+💻 Software Engineer  
 
-<br />
 
 ### Experience
 - 22.10 ~ 진행중  💻 문제풀이 기반 학습/공유/피드백 서비스 'The Pool' **인프라/백엔드 개발**
@@ -17,7 +16,7 @@
 ### Prize & Certificate
 - 2023.01 🎖 AWS Certified Solutions Architect - Associate
 - 2020.12 🏆 제7회 대한민국 SW융합 해커톤 **대상(장관상)**
-- 2020.11 🥉 ICPC(한국 대학생 프로그래밍 경시대회) **Seoul Regional**  
+- 2020.11 🥉 ICPC(한국 대학생 프로그래밍 경시대회) **Seoul Regional 진출**  
 
 ### Activity
 - 22.04 ~ 23.01 과학기술통신부 Software Maestro 13기 수료
