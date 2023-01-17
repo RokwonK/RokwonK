@@ -7,7 +7,7 @@
 
 <br />
 
-### 🏂 Experience
+### Experience
 - 22.10 ~ 진행중  💻 문제풀이 기반 학습/공유/피드백 서비스 'The Pool' **인프라/백엔드 개발**
 - 22.05 ~ 22.12 📱 Computer Science 1일 1질문/면접 커뮤니티 '개발 한 스푼' **iOS/Android 개발(Flutter)**
 - 22.03 ~ 22.06 📱 위치 기반 익명 그룹채팅 '티키타카' **iOS 개발**
