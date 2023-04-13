@@ -31,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 - **BackEnd :** 
 ![NestJS](https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=NestJs&logoColor=white) 
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=AWS Lambda&logoColor=white) 
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=AWSLambda&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
 - **FrontEnd :** 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white) 
@@ -40,7 +40,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white) 
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=Serverless&logoColor=white) 
-![Github Actions](https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white) 
+![Github Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=GitHubActions&logoColor=white) 
 - **Collaborate :**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white) 
