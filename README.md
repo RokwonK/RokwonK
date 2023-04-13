@@ -31,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 - **BackEnd :** 
 ![NestJS](https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=NestJs&logoColor=white) 
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=AWS Lambda&logoColor=white) 
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=AWSLambda&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
 - **FrontEnd :** 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white) 
