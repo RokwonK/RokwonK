@@ -29,8 +29,20 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-
-- **BackEnd :** <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/> <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=AWS Lambda&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
-- **FrontEnd :** <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>  
-- **DevOps :** <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
-- **Collaborate :** <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  
+- **BackEnd :** 
+![NestJS](https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=NestJs&logoColor=white) 
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=AWS Lambda&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) 
+- **FrontEnd :** 
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white) 
+- **DevOps :** 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white) 
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=Serverless&logoColor=white) 
+![Github Actions](https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white) 
+- **Collaborate :**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white) 
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white) 
+![Slack](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white) 
