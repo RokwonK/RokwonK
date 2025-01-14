@@ -1,3 +1,3 @@
 ### ⭐️ ROKWON
-- Currently working as a Backend Developer in the Financial Development Team at 'Hyundai AutoEver'
-- Previously an iOS Developer at 'Kimcaddie'
+- 24.09 ~ xx.xx Backend Developer at Hyundai AutoEver - Financial Development Team
+- 20.11 ~ 22.05 iOS Developer at 'Kimcaddie'
